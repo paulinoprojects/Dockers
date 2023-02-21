@@ -19,4 +19,5 @@ Overall, Docker simplifies the process of developing, testing, and deploying app
 - Containers run in a virtualized environment that isolates them from the underlying infrastructure, making them portable and easy to deploy across different systems. 
 - Each container shares the same host operating system but has its own filesystem, network interfaces, and process space. Containers are created from Docker images, which are essentially a snapshot of a specific configuration of an application and its dependencies. 
 - Docker provides a platform to create, manage, and run containers, making it easier to develop, test, and deploy applications in a consistent and reproducible way.
+
 ![Container](https://user-images.githubusercontent.com/111991325/220251020-b3f1e0c5-a00c-43d9-9ecf-ee2eb165a7cc.jpg)
